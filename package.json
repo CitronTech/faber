@@ -1,0 +1,19 @@
+{
+  "name": "faber",
+  "version": "0.0.1",
+  "description": "CLI for building web applications on top of AWS",
+  "main": "index.js",
+  "bin": {
+    "faber": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CitronTech/faber.git"
+  },
+  "author": "Gerald Truong aka TheBentArrow aka ForwardMotion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CitronTech/faber/issues"
+  },
+  "homepage": "https://github.com/CitronTech/faber#readme"
+}
